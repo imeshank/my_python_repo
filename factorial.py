@@ -16,7 +16,7 @@ def main():
     # num = 5;
     num = int(input("\n Enter a number: \n"))
     print("Factorial of {} is {}".format(num, factorial(num)))
-    print("success")
+    print("Success!")
 
 if __name__ == "__main__":
     main()
